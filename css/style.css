@@ -19,9 +19,7 @@
 /* Fonts */
 .roboto{ font-family: 'Roboto'; }
 /*          */
-body{
-    padding-top: 101px;
-}
+body{ padding-top: 101px; }
 .container {
 	width: 1170px;
 	margin: 0 auto;
