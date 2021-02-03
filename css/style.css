@@ -19,7 +19,9 @@
 /* Fonts */
 .roboto{ font-family: 'Roboto'; }
 /*          */
-body{ padding-top: 101px; }
+body{
+    padding-top: 101px;
+}
 .container {
 	width: 1170px;
 	margin: 0 auto;
@@ -33,6 +35,7 @@ body{ padding-top: 101px; }
     background-color: white;
     -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
             box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    z-index: 20;
 }
 .nav-link{
     padding-right: 23px;
